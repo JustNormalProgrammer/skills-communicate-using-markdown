@@ -8,3 +8,7 @@ const myVariable = 5;
 const a = () => myVariable;
 console.log(a());
 ```
+
+- [x] Add navbar
+- [ ] Enhance layout
+- [x] Fix a bug
